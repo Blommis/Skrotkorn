@@ -1,0 +1,44 @@
+.heroprodukt{
+    background-image: url("../images/pexels-guilherme-rossi-1668928\ \(1\).jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+
+}
+.hero-title{
+    font-size: 3.0rem;
+    margin-bottom: 20px;
+   
+}
+
+.hero-text{
+    font-size: 1.8rem;
+    margin-bottom: 30px;
+    
+}
+
+
+
+.produktnamn{
+    display:inline-block;
+    width:25%;
+    margin:1%;
+    text-align:center;
+    border:1px solid #ccc;
+    padding:10px;
+    box-shadow:2px, 2px, 5px rgba (0,0,0,0.1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+}   
+.produktbild{
+    max-width:100%;
+  
+}
+.produktinfo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:10px,
+    
+}

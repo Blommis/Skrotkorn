@@ -1,0 +1,14 @@
+.headguide{
+    background-image: url("../images/pexels-guilherme-rossi-1668928\ \(1\).jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+  width:1050px;
+
+}
+.guidetext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    
+}

@@ -1,0 +1,29 @@
+.bildbrevid{
+    display: flex;  
+}
+
+.ruta{
+    border:2px solid black;
+    padding: 20px;
+    width: 380px;
+    height: 500px;
+    margin-left: 95px;
+    background-color: aliceblue;
+}
+img{
+    max-width: 100%;
+}
+body{
+    background-image: url("../images/pexels-guilherme-rossi-1668928\ \(1\).jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.kontaktperson{
+    background-color: aliceblue;
+}
+.ruta3{
+    background-image: url("../images/pexels-guilherme-rossi-1668928\ \(1\).jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
