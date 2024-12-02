@@ -1,0 +1,97 @@
+body{
+    background-image: url("../images/handiwork-nyc-ZlgYTC28pGE-unsplash.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.mainheader{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkorange;
+    padding-left:95px;
+    padding-top:15px;
+} 
+
+.pageheader{
+    background-image: url("../images/handiwork-nyc-ZlgYTC28pGE-unsplash.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 160px;
+    background-attachment: fixed;
+
+}
+
+.hero{
+    background-image: url("../images/d2b1a980-d95f-4564-977c-b4cb00cc29ab.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    padding: 100px 0; /* Justera kuddavståndet efter behov */
+}
+
+.hero h1 {
+    font-size: 3.0rem;
+    margin-bottom: 20px;
+   
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-size: 1.5rem;
+}
+
+.cta-button:hover {
+    background-color: #ff8c00; /* Ändra färg vid hovring */
+}
+
+
+
+
+
+
+
+.menu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkorange;
+}
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orange;
+    padding: 10px;
+    text-decoration: none;
+    border-radius:5px;
+    color: rgb(6, 3, 0);
+}
+
+a:hover{
+    background-color:darkorange
+
+}
+
+.menu{
+    margin-top:50px;
+    margin-left:57px;
+}
+
+.ruta2{
+    border: 2px solid black;
+    padding: 15px;
+    width: 400px;
+    background-color: aliceblue;
+
+}
